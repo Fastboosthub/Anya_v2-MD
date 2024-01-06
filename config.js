@@ -67,7 +67,7 @@ module.exports = {
   author: process.env.Author || "@Fastmedia",
   packname: process.env.PackName || "Anon Fast Media",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Anon Bot",
+  footer: process.env.Footer || "*©Anon Bot*",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "Fast~Media",
